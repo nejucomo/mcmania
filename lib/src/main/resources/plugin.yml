@@ -1,0 +1,4 @@
+name: mcmania
+version: 0.1.0
+main: io.github.nejucomo.mcmania.McManiaPlugin
+api-version: '1.20'
